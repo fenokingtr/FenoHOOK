@@ -47,7 +47,7 @@ cd FenoHOOK
 npm install
 ```
 
-3. Bağımlılıkları yükleyin:
+3. Gerekli Next kurulumu:
 ```bash
 npm run build
 ```
