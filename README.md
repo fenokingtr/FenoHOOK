@@ -1,7 +1,7 @@
 # FenoHook - Webhook İzleme Aracı
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fenokingtr/FenoHOOK/main/public/logo.png" alt="FenoHook Logo" width="200"/>
+  <img src="public/logo.png" alt="FenoHook Logo" width="200"/>
   <p><strong>HTTP İsteklerini Yakalama, İzleme ve Test Etme Aracı</strong></p>
   <p>
     <a href="https://github.com/fenokingtr/FenoHOOK/blob/main/LICENSE">
