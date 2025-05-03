@@ -31,7 +31,7 @@ FenoHook, [webhook.site](https://webhook.site) benzeri bir webhook test etme ve 
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fenokingtr/FenoHOOK/main/screenshots/dashboard.png" alt="FenoHook Dashboard" width="80%"/>
+  <img src="https://raw.githubusercontent.com/fenokingtr/FenoHOOK/main/public/dashboard.png" alt="FenoHook Dashboard" width="80%"/>
 </div>
 
 ## 🛠️ Kurulum
