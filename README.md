@@ -1,7 +1,7 @@
 # FenoHook - Webhook İzleme Aracı
 
 <div align="center">
-  <img src="public/logo.png" alt="FenoHook Logo" width="200"/>
+  <img src="/public/logo.png" alt="FenoHook Logo" width="200"/>
   <p><strong>HTTP İsteklerini Yakalama, İzleme ve Test Etme Aracı</strong></p>
   <p>
     <a href="https://github.com/fenokingtr/FenoHOOK/blob/main/LICENSE">
@@ -13,7 +13,7 @@
   </p>
 </div>
 
-FenoHook, [webhook.site](https://webhook.site) benzeri bir webhook test etme ve izleme aracıdır. Test ve gösterim amaçları için HTTP isteklerini yakalamak ve incelemek için sabit bir URL oluşturmanıza olanak tanır.
+FenoHook, webhook.site benzeri bir webhook test etme ve izleme aracıdır. Test ve gösterim amaçları için HTTP isteklerini yakalamak ve incelemek için sabit bir URL oluşturmanıza olanak tanır.
 
 ## 🚨 Önemli Uyarı
 
@@ -31,7 +31,7 @@ FenoHook, [webhook.site](https://webhook.site) benzeri bir webhook test etme ve 
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
-  <img src="public/dashboard.png" alt="FenoHook Dashboard" width="80%"/>
+  <img src="https://raw.githubusercontent.com/fenokingtr/FenoHOOK/main/public/dashboard.png" alt="FenoHook Dashboard" width="80%"/>
 </div>
 
 ## 🛠️ Kurulum
@@ -47,17 +47,12 @@ cd FenoHOOK
 npm install
 ```
 
-3. Gerekli Next kurulumu:
-```bash
-npm run build
-```
-
-4. Geliştirme sunucusunu çalıştırın:
+3. Geliştirme sunucusunu çalıştırın:
 ```bash
 npm run dev
 ```
 
-5. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
+4. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
 
 ## 📝 Kullanım
 
