@@ -47,12 +47,17 @@ cd FenoHOOK
 npm install
 ```
 
-3. Geliştirme sunucusunu çalıştırın:
+3. Bağımlılıkları yükleyin:
+```bash
+npm run build
+```
+
+4. Geliştirme sunucusunu çalıştırın:
 ```bash
 npm run dev
 ```
 
-4. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
+5. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
 
 ## 📝 Kullanım
 
