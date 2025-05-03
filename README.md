@@ -138,29 +138,76 @@ Bu demo sürümünde:
 
 ## 🚀 Gelecek Güncellemeler İçin Yol Haritası
 
-1. **Kullanıcı Hesapları Sistemi**:
-   - Oturum açma ve kayıt olma
-   - Her kullanıcı için özel webhook URL'leri
-   - Kullanıcıya özel istek geçmişi
+1. **Kullanıcı Hesapları Sistemi** (v1.1):
+   - Oturum açma ve kayıt olma entegrasyonu
+   - Her kullanıcı için özel dashboard
+   - Profil yönetimi ve ayarlar paneli
+   - Kullanıcıya özel istek geçmişi ve analitik
+   - Sosyal medya ile giriş seçenekleri
 
-2. **UUID Tabanlı Benzersiz URL'ler**:
-   - Her istek için benzersiz tanımlayıcılar
-   - İsteğe bağlı URL süre sonu
+2. **UUID Tabanlı Benzersiz URL'ler** (v1.2):
+   - Her kullanıcı için benzersiz ve kalıcı UUID oluşturma
+   - İsteğe bağlı özel URL desenleri oluşturma
+   - URL'leri gruplandırma ve etiketleme
+   - URL aktivite izleme ve analitik
+   - URL süre sonu ve otomatik imha seçenekleri
 
-3. **Abonelik Sistemi**:
-   - Ücretsiz ve premium planlar
-   - Premium kullanıcılar için daha uzun veri saklama
-   - Webhook tetikleyici ve otomasyon özellikleri
+3. **Abonelik Sistemi** (v2.0):
+   - **Ücretsiz Plan**:
+     - 50 istek saklama limiti
+     - 24 saat veri saklama
+     - Temel analitik özellikleri
+     - 1 aktif webhook URL'si
+   - **Premium Plan**:
+     - Sınırsız istek saklama
+     - 30 gün veri saklama
+     - Gelişmiş analitik ve görselleştirme
+     - 10 aktif webhook URL'si
+     - İsteğe bağlı bildirimler
+   - **Kurumsal Plan**:
+     - Sınırsız istek saklama ve saklama süresi
+     - Özel alan adı desteği
+     - Takım yönetimi ve çoklu kullanıcı
+     - API anahtarları ve entegrasyon
+     - Öncelikli destek ve SLA garantisi
 
-4. **Gelişmiş Güvenlik Özellikleri**:
-   - IP kısıtlamaları
-   - Webhook güvenlik anahtarları
-   - İstek doğrulama ve filtreleme
+4. **Gelişmiş Güvenlik Özellikleri** (v2.1):
+   - IP kısıtlamaları ve beyaz liste
+   - CORS ve Origin politikası yönetimi
+   - Webhook güvenlik anahtarları ve token doğrulama
+   - İstek doğrulama ve filtreleme kuralları
+   - İstek içeriği şifreleme
+   - Güvenlik günlükleri ve uyarılar
 
-5. **Veritabanı Entegrasyonu**:
-   - İsteklerin kalıcı depolanması
-   - İstek arama ve filtreleme
-   - İstek verilerini dışa aktarma
+5. **Veritabanı Entegrasyonu** (v2.2):
+   - MongoDB ile kalıcı veri saklama
+   - İstek verisi yedekleme ve dışa aktarma
+   - Gelişmiş arama ve filtreleme özellikleri
+   - İstek geçmişi raporlama ve analitik
+   - API ile programatik erişim
+
+6. **Webhook Tetikleyiciler ve İş Akışları** (v3.0):
+   - Belirli isteklere göre webhook tetikleyicileri oluşturma
+   - Koşullu iş akışları ve istek yönlendirme
+   - Otomatik yanıt şablonları
+   - Zamanlanmış webhook çağrıları
+   - Entegrasyon ile diğer servislere bildirim gönderme (Slack, Discord, Email)
+
+7. **Mobil Uygulama ve API** (v3.1):
+   - iOS ve Android için mobil uygulama
+   - Kapsamlı API dokümantasyonu
+   - SDK'lar ve entegrasyon kütüphaneleri
+   - Gerçek zamanlı bildirimler
+   - Offline mod ve senkronizasyon
+
+8. **Topluluk Özellikleri** (v3.2):
+   - Webhook şablonlarını paylaşma
+   - Topluluk kütüphanesi
+   - İstek senaryoları ve test senaryoları oluşturma
+   - Geri bildirim ve destek sistemi
+   - Dokümantasyon ve eğitim kaynakları
+
+Bu özellikler, kullanıcı geribildirimleri ve ihtiyaçlara göre değişebilir. Katkıda bulunmak veya özellik talep etmek için [Issues](https://github.com/fenokingtr/FenoHOOK/issues) sayfasını kullanabilirsiniz.
 
 ## 📋 API Referansı
 
